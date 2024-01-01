@@ -2,4 +2,4 @@
 
 In this project, I use Deep Learning (DL) to develop a model capable of classifying marine animals based on audio recordings.
 
-See Streamlit Demo for more information!
+See Streamlit Demo for more information: https://watkins-marine-sound.streamlit.app/
