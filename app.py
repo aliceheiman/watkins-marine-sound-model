@@ -81,23 +81,23 @@ st.write(
 st.write("Below, you can hear some examples of how the different species sound!")
 
 st.write("**Narwhal:**")
-st.audio(os.path.join("audio", "Narwhal", "6800200A.wav"))
+st.audio(os.path.join("assets", "demo-narwhal.wav"))
 st.image(os.path.join("thumbnails", "narwhal.png"))
 
 st.write("**Walrus:**")
-st.audio(os.path.join("audio", "Walrus", "7200200C.wav"))
+st.audio(os.path.join("assets", "demo-walrus.wav"))
 st.image(os.path.join("thumbnails", "walrus.png"))
 
 st.write("**Harp Seal:**")
-st.audio(os.path.join("audio", "Harp Seal", "6700900D.wav"))
+st.audio(os.path.join("assets", "demo-harp-seal.wav"))
 st.image(os.path.join("thumbnails", "harp-seal.png"))
 
 st.write("**Spinner Dolphin:**")
-st.audio(os.path.join("audio", "Spinner Dolphin", "7100100N.wav"))
+st.audio(os.path.join("assets", "demo-spinner-dolphin.wav"))
 st.image(os.path.join("thumbnails", "spinner-dolphin.png"))
 
 st.write("**Killer Whale:**")
-st.audio(os.path.join("audio", "Killer Whale", "6002600A.wav"))
+st.audio(os.path.join("assets", "demo-killer-whale.wav"))
 st.image(os.path.join("thumbnails", "killer-whale.png"))
 
 st.write(
