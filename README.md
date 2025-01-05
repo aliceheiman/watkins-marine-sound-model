@@ -21,7 +21,7 @@ In this project, I use Deep Learning (DL) to develop a model capable of classify
 Streamlit Demo: [https://watkins-marine-sound.streamlit.app/](https://watkins-marine-sound.streamlit.app/).
 
 <p align="center">
-  <img src="assets/watkins-sounds.png" alt="Marine Animal sounds" width="500">
+  <img src="assets/spectrograms.png" alt="Marine Animal sounds" width="500">
 </p>
 
 ## Installation
